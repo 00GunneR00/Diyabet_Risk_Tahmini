@@ -87,5 +87,4 @@ tek bir projede birleştirmeyi amaçlamaktadır.
 ---
 
 ## 📬 İletişim
-📧 [Email](mailto:youremail@example.com)  
-🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+📧 [Email](bektasguner772@gmail.com)  
